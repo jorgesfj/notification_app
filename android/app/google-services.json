@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "838943067396",
+    "project_id": "messag-futter-curso",
+    "storage_bucket": "messag-futter-curso.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838943067396:android:e0720a7c727455da361451",
+        "android_client_info": {
+          "package_name": "com.example.notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838943067396-ocjll386vipl8esf4t2v4ekbeqc3hdiq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwF29S62BjXTl_FWs1lB3hs-CfhNu1tv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838943067396-ocjll386vipl8esf4t2v4ekbeqc3hdiq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
