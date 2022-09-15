@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:notifications/services/notification_service.dart';
 import 'package:provider/provider.dart';
 
+import '../models/custom_notification.dart';
+
 class HomePage extends StatefulWidget {
   const HomePage({Key? key}) : super(key: key);
 
